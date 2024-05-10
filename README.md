@@ -1,2 +1,2 @@
 # SilentSync
-Smart Gloves to convert sign language into words using ESP-32 and ir-sensors
+[SilentSync report .pdf](https://github.com/pemsherpa/SilentSync/files/15277614/SilentSync.report.pdf)
