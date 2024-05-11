@@ -20,7 +20,8 @@ language and mainstream communication.
 1. Arduino IDE
 2. Any python compiler (we used visual studio and pycharm)
 3. gTTS library to change text to audio
-   ```pip install gTTS
+   ```python
+   pip install gTTS
 4. CoolTerm [To convert data from serial monitor to text file]
 
 
